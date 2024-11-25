@@ -28,7 +28,7 @@ This is a Django-based web application that provides a complete user authenticat
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Shivansh-Ahirwal/Django-Authentication-System.git
-cd Django-Authentication-Derv
+cd Django-Authentication-System
 ```
 
 ### **2. Create a Virtual Environment**
