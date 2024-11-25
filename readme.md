@@ -135,20 +135,9 @@ Visit `/profile/` to view user details.
 
 ---
 
-## **Screenshots**
-
-### **Login Page**
-![Login Page](#)
-
-### **Dashboard**
-![Dashboard](#)
-
----
-
 ## **Built With**
 - **Django**: Python web framework for rapid development.
 - **SQLite**: Default database for development.
-- **Bootstrap** (optional): For styling the forms and layout.
 
 ---
 
@@ -160,10 +149,5 @@ Visit `/profile/` to view user details.
 ---
 
 ## **Author**
-[Your Name](https://github.com/your-github-profile)
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+[Shivansh-Ahirwal](https://github.com/Shivansh-Ahirwal)
 
